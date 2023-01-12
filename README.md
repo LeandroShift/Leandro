@@ -3,6 +3,7 @@
 ### Meu nome é Leandro  :smiley:
 
 Desenvolvedor Front-End. em Formação
+
 Formado em Análise e Desenvolvimento de Sistemas.📖
 
 
