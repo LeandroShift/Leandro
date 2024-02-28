@@ -4,6 +4,8 @@
 
 Desenvolvedor Front-End. em Formação
 
+Cursando Engenharia de Software.
+
 Formado em Análise e Desenvolvimento de Sistemas.📖
 
 <a href= "mailto:leandromendesluiz@hotmail.com"><img src="https://img.shields.io/badge/-EMAIL-%23333?style=for-the-badge&logo=gmail&logoColor=white" alvo ="_blank"></a> <a href="https://www.linkedin.com/in/leandro-henrique-mendes-luiz"><img src="https://img.shields.io/badge/-LinkedIn -%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <a href="https://github.com/LeandroShift?tab=repositories"><img src="https://img.shields.io/badge/GitHub-7289f4?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
